@@ -1,5 +1,6 @@
 .footer {
   position: relative;
+  bottom: -40px;
   padding: 64px;
   background: hsl(0deg, 0%, 5%);
   color: white;
